@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HellKingLucifer
 - 👀 I’m interested in being an master coder in maximum languages
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new ideas related Artificial Intelligence
+- 💞️ I’m looking to collaborate on new ideas related Artificial Intelligence and Cyber Security
 - 📫 How to reach me deveshverma_indian#Instagram   DeveshV95115219#Twitter
 
 <!---
